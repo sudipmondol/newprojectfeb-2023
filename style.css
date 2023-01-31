@@ -1,0 +1,45 @@
+
+/* header part start - 1 */
+
+body {
+    margin:0 auto;
+}
+
+.head-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #212A35;
+    height: 55px;
+}
+.head-img-box{
+    
+    margin-left: 25px;
+    font-size: 30px;
+    background-color: 212A35;
+    letter-spacing: -2px;
+ }
+
+.head-img{
+
+  }
+
+.color-1{
+    color: white;
+    cursor: pointer;
+}
+.color-2{
+    color: #80B141;
+    cursor: pointer;
+    
+}
+.head-btn{
+    margin-right: 26px;
+    background: #80B141;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+/* header part end -2 */
